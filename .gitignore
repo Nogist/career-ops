@@ -24,7 +24,6 @@ modes/_profile.md
 .update-lock
 
 # Secrets (never commit — use .env.example as template)
-.env
 
 # Generated
 .resolved-prompt-*
@@ -41,3 +40,8 @@ bun.lock
 .claude/memory/
 career-dashboard
 package-lock.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
